@@ -32,7 +32,7 @@ Files also offers advanced features such as file tagging for easy organization, 
 ### 2. Clone the repository
 
 ```ps
-git clone https://github.com/files-community/Files
+git clone https://github.com/projectoperations/Files
 ```
 
 This will create a local copy of the repository.
